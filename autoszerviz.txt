@@ -1,0 +1,5 @@
+Volkswagen Passat|Benko Gergely|SM 14 BNK|0735865219|2001|2020.12.13|12000HUF|Gumicsere es kormany allitas
+BMW X6M|Dani Leitner|SM 10 ZYO|0745697812|2018|2022.11.30|66000HUF|Gyertya es benzinpompa csere
+Lamborghini|Foszto Abel|SM 14 ABI|0773243210|2020|2020.12.01|2000HUF|Ablak csere
+Volkswagen Golf|Mak Patrick|SM 99 MAK|0745892460|2019|2021.04.06|45000HUF|Muszerfal armakoreinek csereje
+Mercedes Benz AMG|Brem Botond|SM 17 QWE|0765341412|2014|2021.04.01|20000HUF|Felni csere
